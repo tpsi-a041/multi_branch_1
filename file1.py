@@ -6,3 +6,5 @@ print ("Il secondo commit non si scorda mai")
 print ("Io sono una funzione sperimentale")
 #Testiamo quest'altra funzionalità
 print("Io sono l'esperimento di un esperimento")
+#Faccio ancora una modifica
+print("Sono una modifica")
